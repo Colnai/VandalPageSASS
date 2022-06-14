@@ -30,18 +30,6 @@ body{
 }
 
 
-.chicharra{
-    height: 37.5rem; 
-    display: flex;
-    justify-content: center;  
-    padding: 1.875rem;
-}
-
-.chicharron{
-    display: flex;
-    justify-content: space-evenly;
-}
-
 .loremtext{
     color: #DAC1C1;
     font-family: 'Courier New', Courier, monospace;
@@ -54,14 +42,6 @@ body{
         border-radius: 50px;
     }
     
-}
-
-.chicharraimg{
-    height: 31.25rem;
-    display: flex;
-    justify-content: center;
-    padding: 30px;
-
 }
 
 .loremtextdos{
@@ -91,5 +71,6 @@ body{
 }
 
 .mvgnolias{
-    width: 25rem;
+    width: 100% ;
 }
+

@@ -22,16 +22,6 @@ body {
 .mainvh {
   min-height: calc(100vh - 72px - 150px); }
 
-.chicharra {
-  height: 37.5rem;
-  display: flex;
-  justify-content: center;
-  padding: 1.875rem; }
-
-.chicharron {
-  display: flex;
-  justify-content: space-evenly; }
-
 .loremtext {
   color: #DAC1C1;
   font-family: 'Courier New', Courier, monospace;
@@ -42,12 +32,6 @@ body {
     background-color: red;
     transition: all 1s linear;
     border-radius: 50px; }
-
-.chicharraimg {
-  height: 31.25rem;
-  display: flex;
-  justify-content: center;
-  padding: 30px; }
 
 .loremtextdos {
   color: #DAC1C1;
@@ -70,4 +54,18 @@ body {
   color: black; }
 
 .mvgnolias {
-  width: 25rem; }
+  width: 100%; }
+
+.acercadephoto{
+    width: 100%;
+}
+
+.iglesiaphoto{
+  width: 100%;
+}
+
+.textestilized{
+  color: #D7CCC4;
+  font-family:sans-serif ;
+  background-color: #615E5D;
+}
